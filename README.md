@@ -18,6 +18,7 @@ Fetch data and set ES up.
 2. Feed this data into ES; could modify and use the script put in snippets.
 3. Download ontologies.
 4. Download the continuous space word vector files at the bottom of the page
-   and host them here [http://participants-area.bioasq.org/tools/BioASQword2vec/].
+   [http://participants-area.bioasq.org/tools/BioASQword2vec/] and host them 
+   here [https://github.com/3Top/word2vec-api].
 
 
